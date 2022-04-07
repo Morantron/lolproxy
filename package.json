@@ -1,0 +1,13 @@
+{
+  "name": "lolproxy",
+  "description": "literally one line proxy",
+  "version": "0.0.1",
+  "main": "bin/lolproxy",
+  "bin": {
+    "lolproxy": "./bin/lolproxy"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
